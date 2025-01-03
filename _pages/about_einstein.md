@@ -1,6 +1,3 @@
-I am a *ecologist and conservationist* that specialises in modelling the impacts of anthropogenic pressures on biodiversity and its contributions to people now and in the future. Understanding biodiversity's responses will facilitate the adoption of adaptive policy responses towards achieving global and regional biodiversity targets, including reversing biodiversity loss and safeguarding the benefits we receive from nature.   
-
-Currently I am a **postdoctoral researcher in the [Biodiversity Futures Lab](https://www.nhm.ac.uk/our-science/research/projects/predicts.html) at the Natural History Museum** on a large-scale project assessing biodiversity modelling tools to support the goals and targets of the Kunming-Montreal Global Biodiversity Framework (KMGBF). 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
