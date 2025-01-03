@@ -5,51 +5,67 @@
     "email": "p.walkden@nhm.ac.uk",
     "summary": "Researcher specialising in modelling the impacts of anthropogenic pressures on biodiversity and its contributions to people",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Cromwell Road",
+      "postalCode": "SW7 5BD",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "London"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Bluesky",
+        "username": "PatrickAWalkden",
+        "url": "https://bsky.app/profile/patrickawalkden.bsky.social"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Natural History Museum, Biodiversity Futures Lab",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2023-07-20",
+      "endDate": "2024-03-20",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Imperial College London & Natural History Museum",
+      "location": "London, United Kingdom",
+      "area": "Thesis: *The functional implications of land use and climate change for bird assmeblages worldwide*",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2020-10-03",
+      "endDate": "2024-10-02",
+      "score": "10"
+    },
+    {
+      "institution": "Imperial College London",
+      "location": "London, United Kingdom",
+      "url": "https://www.uzh.ch/",
+      "area": "Ecology, Evolution and Conservation",
+      "studyType": "Master of Research (MRes)",
+      "startDate": "2018-10-01",
+      "endDate": "2019-10-01",
+      "score": "10"
+    },
+    {
+      "institution": "University of Sussex",
+      "location": "Brighton, United Kingdom",
+      "url": "https://www.uzh.ch/",
+      "area": "Biolody",
+      "studyType": "Bachelor of Science (BSc)",
+      "startDate": "2014-09-14",
+      "endDate": "2017-07-12",
+      "score": "10"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Global Fellows Fund grant",
+      "date": "2023-03-01",
+      "awarder": "Imperial College London",
+      "url": "https://www.imperial.ac.uk/students/global-opportunities/pg/globalfellowsfund/",
+      "summary": "The Global Fellows Fund supports high impact international placements for PhD students in labs at Imperial's strategic international partners. I undertook a 3-month placement at Cornell Univeristy, New York, USA"
     }
   ],
   "publications": [
