@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Publications I have been a part of that are published, or in revision, review or preperation.",
+          description: "Publications I have been a part of that are published, or that are currently in revision, review or preperation.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
