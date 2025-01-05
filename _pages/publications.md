@@ -2,7 +2,7 @@
 layout: page
 title: publications
 permalink: /publications/
-description: Publications I have been a part of that are published, or in revision, review or preperation.
+description: Publications I have been a part of that are published, or that are currently in revision, review or preperation.
 nav: true
 nav_order: 2
 social: true # includes social icons at the bottom of the page
