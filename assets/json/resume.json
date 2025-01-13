@@ -91,35 +91,53 @@
     {
       "name": "Land-use change undermines the stability of avian functional diversity",
       "publisher": "Nature (In Revision)",
-      "summary": ""
+      "summary": "This study assesses how ecosystem stability (i.e., the ability of ecosystems to continuing functioning in the face of environmental perturbations) is impacted by land use change. We found that although disturbance tolerant species were favoured in human-modified habitats, stability was threatened as functional redundancy reduced meaning further species loss jeaopardises ecosystem functioning."
     },
     {
       "name": "AVONET: morphological, ecological and geographical data for all birds",
       "publisher": "Ecology Letters",
       "releaseDate": "2022",
       "url": "https://doi.org/10.1111/ele.13898",
-      "summary": "AVONET was among the first comprehensive functional trait databases including multiple fine-resolution continuous morphological measurements for an entire taxonomic group (birds). I contributed to this work by measuring >1500 bird specimens morphological traits as well as extensive curation of the dataset prior to release."
+      "summary": "AVONET was among the first comprehensive functional trait databases including multiple fine-resolution continuous morphological measurements for an entire taxonomic group (birds). I contributed to this work by measuring >1500 bird specimens' morphological traits as well as extensive curation of the dataset prior to release."
     },
     {
       "name": "The island rule explains consistent patterns of body size evolution in terrestrial vertebrates",
       "publisher": "Nature Ecology & Evolution",
       "releaseDate": "2021",
       "url": "https://doi.org/10.1038/s41559-021-01426-y",
-      "summary": ""
+      "summary": "This study was the most comprehensive assessment of the island rule to date. The `island rule` is the evolutionary phenomena of insular gigantism in small animals and dwarfism in large animals but has been the subject of much debate. To test this rule, we collated a massive database of paired morphological measurements of mammal, reptile, amphibian and bird species from continental and island populations and found the island rule to be pervasive across vertebrates."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Quantitaive Analysis",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Trait-based approaches",
+        "Mixed-effects modelling",
+        "Geospatial and temporal analyses",
+        "Species Distribution Modelling (SDMs)",
+        "Bayesian inference"
+      ]
+    },
+    {
+      "name": "Interpersonal skills",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Collaboration",
+        "Science communication",
+        "Mentoring",
+        "Teaching"
+      ]
+    },
+    {
+      "name": "Programming in R",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        ""
       ]
     }
   ],
@@ -130,40 +148,16 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Andy Purvis",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
     },
     {
-      "name": "Professor John Doe",
+      "name": "Professor Joseph Tobias",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "reference": ""
     }
   ]
 }
